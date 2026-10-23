@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="toll_free_green">#4CAF50</color>
+    <color name="toll_free_green_dark">#388E3C</color>
+    <color name="primary_blue">#2196F3</color>
+    
+    <!-- UI Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="gray_light">#F5F5F5</color>
+    <color name="gray_medium">#9E9E9E</color>
+    <color name="gray_dark">#424242</color>
+    
+    <!-- Warning Colors -->
+    <color name="warning_orange">#FF9800</color>
+    <color name="error_red">#F44336</color>
+    
+    <!-- Map Colors -->
+    <color name="route_line">#2196F3</color>
+    <color name="toll_road_marker">#F44336</color>
+    <color name="secondary_road">#4CAF50</color>
+</resources>
