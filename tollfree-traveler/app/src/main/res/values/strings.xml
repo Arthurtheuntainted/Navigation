@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Toll Free Traveler</string>
+    <string name="search_hint">Where to? (Toll-Free)</string>
+    <string name="toll_free_mode">Toll-Free Mode</string>
+    <string name="fastest_route_mode">Fastest Route</string>
+    <string name="destination_set">Destination set</string>
+    <string name="location_permission_denied">Location permission denied</string>
+    <string name="toll_free_active">✓ Toll-Free Route</string>
+    <string name="distance_format">Distance: %s</string>
+    <string name="duration_format">Duration: %s</string>
+</resources>
